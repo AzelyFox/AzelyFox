@@ -50,8 +50,8 @@
 
 ### Games
 <div width="100%" align="center" style="text-decoration:none">
-<a href="https://github.com/7kQon/MSB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=7kQon&repo=MSB&theme=default" width="45%"/>
+<a href="https://github.com/KevRiver/MSB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevRiver&repo=MSB&theme=default" width="45%"/>
 </a>
 <a href="https://github.com/limecake/StarryCake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limecake&repo=GeniusBean&theme=default" width="45%" />
