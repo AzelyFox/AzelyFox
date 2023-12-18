@@ -1,11 +1,11 @@
 ### JinYoung Jung
 ## Profile
-+ 2015 ~ 2021 : Sejong University, Dept of Computer Science & Engineering
-+ 2019 : 11th SGM, Game Development
-+ Language Spec : Java/C++/C#/PHP/JavaScript
++ **2023** ~ : SuperCreative Technical Director
++ **2020 ~ 2023** : VIC Edu, Mobile Engineer
++ **2019** : 11th SmileGate Membership, Game Development
++ **2015 ~ 2021** : Sejong University, Dept of Computer Science & Engineering
 
 ## Interest
 + Server Programming
 + Game Developement
-+ Android Development
-+ Translate Contribution
++ Infra Developement
